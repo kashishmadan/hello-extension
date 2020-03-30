@@ -15,6 +15,12 @@
         "matches": ["*://*.mozilla.org/*"],
         "js": ["borderify.js"]
       }
-    ]
+    ],
+    
+    "applications": {
+        "gecko": {
+          "id": "borderify@example.com"
+        }
+      }
   
   }
